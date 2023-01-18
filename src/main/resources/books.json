@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Java 8 in Action",
+    "isbn": "978-8184959628",
+    "year": 2014,
+    "language": "English",
+    "pages": 424,
+    "authors": [
+      "Raoul-Gabriel Urma",
+      "Mario Fusco",
+      "Alan Mycroft"
+    ],
+    "publishers": [
+      "Dreamtech Press"
+    ]
+  },
+  {
+    "title": "Effective Java",
+    "isbn": "978-81841230628",
+    "year": 2017,
+    "language": "English",
+    "pages": 414,
+    "authors": ["Joshua Bloch"],
+    "publishers": ["Addison-Wesley Professional"]
+  },
+  {
+    "title": "Spring in Action",
+    "isbn": "978-81842149628",
+    "year": 2018,
+    "language": "English",
+    "pages": 524,
+    "authors": ["Craig Walls"],
+    "publishers": ["Manning"]
+  }
+]

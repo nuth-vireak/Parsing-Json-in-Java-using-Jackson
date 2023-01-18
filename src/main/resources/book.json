@@ -1,0 +1,9 @@
+{
+  "title" : "Java 8 in Action",
+  "isbn" : "978-8184959628",
+  "year" : 2014,
+  "language": "English",
+  "pages": 424 ,
+  "authors" : [ "Raoul-Gabriel Urma", "Mario Fusco", "Alan Mycroft"],
+  "publishers" : ["Dreamtech Press"]
+}
