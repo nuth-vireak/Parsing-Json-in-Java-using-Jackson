@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc7852a6-6202-4f5c-96db-e5ad6ccda7d1" name="Changes" comment="" />
+    <list default="true" id="cc7852a6-6202-4f5c-96db-e5ad6ccda7d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/akara/model/Podcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/akara/model/PodcastJsonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/podcast.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/podcasts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json/BookJsonReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json/BookJsonReader.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,7 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2KUgLWSR1MfKcZjHvcLVtqA6WLF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,18 +51,74 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Java/jackson-example/jackson-example",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\Parsing-Json-in-Java-Tutorial-Part-1-Jackson-and-Simple-Objects\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PodcastJsonReader">
+    <configuration name="BookJsonReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="json.BookJsonReader" />
+      <module name="Parsing-Json-in-Java-using-Jakson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PodcastJsonReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="akara.model.PodcastJsonReader" />
+      <module name="Parsing-Json-in-Java-using-Jakson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="akara.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PodcastJsonReader" />
+        <item itemvalue="Application.BookJsonReader" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="cc7852a6-6202-4f5c-96db-e5ad6ccda7d1" name="Changes" comment="" />
       <created>1674034529408</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674034529408</updated>
-      <workItem from="1674034529410" duration="2000" />
+      <workItem from="1674034529410" duration="1383000" />
+      <workItem from="1674065952777" duration="1143000" />
+      <workItem from="1674067394092" duration="687000" />
+      <workItem from="1674068227445" duration="247000" />
+      <workItem from="1674201971673" duration="4821000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
